@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: rl2024
+Version: 0.1
+Summary: Reinforcement Learning in UoE (CW)
+Home-page: https://github.com/uoe-agents/uoe-rl2024-coursework
+Author: Filippos Christianos, Mhairi Dunion, Samuel Garcin, Shangmin Guo, Trevor McInroe, Lukas Schaefer, 
+Provides-Extra: test
